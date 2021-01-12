@@ -8,6 +8,8 @@
 
 $(document).ready(function () {
 	$(".demo-img").blowup({
-		background : "#FCEBB6"
+		background : "#FCEBB6",
+		width: 1000,
+		height: 1000
 	});
 })
